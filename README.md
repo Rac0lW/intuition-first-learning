@@ -10,3 +10,7 @@ A reusable Agent Skill for intuition-first explanations across technical subject
 - `Give me an operational mental model of backpropagation.`
 
 The main skill definition is in `SKILL.md`.
+
+## License
+
+[MIT](LICENSE) © 2026 RacolW.
