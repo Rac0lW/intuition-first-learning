@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intuition-First Learning"
+  short_description: "Build intuition through mental models and predictions"
+  default_prompt: "用 $intuition-first-learning 帮我建立这个概念的直觉，先操作脑中的模型，再理解公式。"
